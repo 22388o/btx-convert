@@ -1,7 +1,7 @@
-# btg-convert
-Convert a Bitcoin address to Bitcoin Gold
+# btx-convert
+Convert a Bitcoin address to Bitcore
 
-Available on https://ledgerhq.github.io/btg-convert/
+Available on https://LIMXTEC.github.io/btx-convert/
 
-Copied from https://github.com/litecoin-project/p2sh-convert
+Copied from https://ledgerhq.github.io/btg-convert/
 
